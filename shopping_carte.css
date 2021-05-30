@@ -1,0 +1,51 @@
+body {
+    margin: top 10px; ;
+    margin: right 20px; ;
+    margin: bottom 30px; ;
+    margin-left: 40px;
+}
+
+header {
+    padding: 10px;
+    text-align: end;
+    background: #1abc9c;
+    color: white;
+    font-size: 20px;
+    justify-content: space-between;
+    
+
+  }
+  #line {
+      display: inline-block;
+      justify-content: space-around;
+  }
+  
+.container{
+    background-color: green;
+}
+h1 {
+    color: forestgreen;
+    text-align: center;
+    
+}
+.center {
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+table{
+    text-align: center;
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+  table, td {
+      border:2px solid green;
+  }
+  .tit{
+      align-items: center;
+      text-align: center;
+  }
+  
